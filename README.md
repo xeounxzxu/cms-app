@@ -7,6 +7,12 @@ CMS를 사용하면 클릭 한번으로 사이트를 만들 수 있다.<br/>
 기본적으로 파일/썸네일/캐시/등 프레임워크 단위의 도구가 있기 때문에 새로운 기능을 만들 때도 간단하게 구현이 가능하다.<br/>
 
 -------
+
+## Runbook 
+
+- clone 
+
+git clone --recurse-submodules https://github.com/Gon-Zo/cms-app.git
  
 ## 개발환경 
 
