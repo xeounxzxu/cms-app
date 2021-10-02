@@ -1,0 +1,4 @@
+[submodule "webapp"]
+	path = webapp
+	url = https://github.com/Gon-Zo/react-template.git
+	branch = cms-app
