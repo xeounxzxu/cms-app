@@ -12,7 +12,7 @@ CMS를 사용하면 클릭 한번으로 사이트를 만들 수 있다.<br/>
 
 - clone 
 
-git clone --recurse-submodules https://github.com/Gon-Zo/cms-app.git
+git clone --recurse-submodules
  
 ## 개발환경 
 
